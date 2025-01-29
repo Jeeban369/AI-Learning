@@ -1,4 +1,43 @@
 # AI-Learning
+Here are the 12 chapters for the book "AI Agent Building with Python from Scratch" in Odia with some English terminology:
+
+1. **Python Basics (Python ର ମୂଳ ତତ୍ତ୍ୱ)**  
+   - Variables, Data Types, Loops, Functions.
+
+2. **Python for Data Handling (ଡାଟା ହ୍ୟାଣ୍ଡଲିଂ ପାଇଁ Python)**  
+   - Lists, Dictionaries, File Handling, Libraries like NumPy, Pandas.
+
+3. **Introduction to AI and ML (AI ଏବଂ ML ର ପରିଚୟ)**  
+   - Basics of Artificial Intelligence and Machine Learning.
+
+4. **Mathematics for AI (AI ପାଇଁ ଗଣିତ)**  
+   - Linear Algebra, Probability, Statistics.
+
+5. **Data Preprocessing (ଡାଟା ପ୍ରିପ୍ରୋସେସିଂ)**  
+   - Cleaning, Normalization, Feature Engineering.
+
+6. **Supervised Learning (ସୁପରଭାଇଜଡ୍ ଲର୍ନିଂ)**  
+   - Regression, Classification, Algorithms like Linear Regression, Decision Trees.
+
+7. **Unsupervised Learning (ଅନସୁପରଭାଇଜଡ୍ ଲର୍ନିଂ)**  
+   - Clustering, Dimensionality Reduction, K-Means, PCA.
+
+8. **Deep Learning Basics (ଡିପ୍ ଲର୍ନିଂ ର ମୂଳ ତତ୍ତ୍ୱ)**  
+   - Neural Networks, TensorFlow, Keras.
+
+9. **Natural Language Processing (NLP) (ପ୍ରାକୃତିକ ଭାଷା ପ୍ରକ୍ରିୟାକରଣ)**  
+   - Text Processing, Sentiment Analysis, Word Embeddings.
+
+10. **Reinforcement Learning (ରିଇନଫୋର୍ସମେଣ୍ଟ ଲର୍ନିଂ)**  
+    - Q-Learning, Markov Decision Processes, OpenAI Gym.
+
+11. **Building AI Agents (AI ଏଜେଣ୍ଟ ତିଆରି)**  
+    - Designing Agents, Integrating ML Models, Real-world Applications.
+
+12. **Deployment and Ethics (ଡିପ୍ଲଏମେଣ୍ଟ ଏବଂ ନୈତିକତା)**  
+    - Model Deployment, AI Ethics, Future of AI.
+
+This structure ensures a gradual progression from Python basics to advanced AI Agent building, suitable for Odia-speaking learners.
 ନିମ୍ନଲିଖିତ ପ୍ରଥମ ଅଧ୍ୟାୟ (Chapter 1) ର ସୁନ୍ଦର ସଂରଚନା ଏବଂ ଉଦାହରଣ ସହିତ ପ୍ରସ୍ତୁତ କରାଗଲା:
 
 ---
